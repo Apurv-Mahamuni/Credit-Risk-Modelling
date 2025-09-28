@@ -69,6 +69,3 @@ The Streamlit UI uses [`app/prediction_helper.py`](app/prediction_helper.py) to:
 - Streamlit
 
 ---
-
-**Author:** [Your Name]  
-**License:** MIT
