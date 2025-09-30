@@ -60,6 +60,10 @@ The Streamlit UI uses [`app/prediction_helper.py`](app/prediction_helper.py) to:
 - Predict default probability and credit score
 - Display risk rating
 
+## Demo
+
+Try the deployed app here: [https://app-credit-risk-modelling.streamlit.app/](https://app-credit-risk-modelling.streamlit.app/)
+
 ## References
 
 - scikit-learn
