@@ -5,7 +5,7 @@ This project implements a **Credit Risk Modelling** pipeline with a Streamlit UI
 ## Project Structure
 
 ```
-Main.ipynb                # Main notebook for EDA, feature engineering, and model training
+Main.ipynb            # Main notebook for EDA, feature engineering, and model training
 main.py               # Streamlit UI for predictions
 prediction_helper.py  # Helper functions for prediction and scoring
 artifacts/
