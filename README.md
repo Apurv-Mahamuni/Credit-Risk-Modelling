@@ -6,9 +6,8 @@ This project implements a **Credit Risk Modelling** pipeline with a Streamlit UI
 
 ```
 Main.ipynb                # Main notebook for EDA, feature engineering, and model training
-app/
-    main.py               # Streamlit UI for predictions
-    prediction_helper.py  # Helper functions for prediction and scoring
+main.py               # Streamlit UI for predictions
+prediction_helper.py  # Helper functions for prediction and scoring
 artifacts/
     model_data.joblib     # Trained model and preprocessing objects
 Data/
