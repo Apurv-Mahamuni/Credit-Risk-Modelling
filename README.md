@@ -36,7 +36,7 @@ Data/
 
 3. **Start the Streamlit UI**:
     ```sh
-    streamlit run app/main.py
+    streamlit run main.py
     ```
 
 ## Data Sources
@@ -53,7 +53,7 @@ Data/
 
 ## Prediction Pipeline
 
-The Streamlit UI uses [`app/prediction_helper.py`](app/prediction_helper.py) to:
+The Streamlit UI uses [`prediction_helper.py`](prediction_helper.py) to:
 - Prepare input features
 - Scale and encode data
 - Predict default probability and credit score
